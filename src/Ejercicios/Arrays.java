@@ -39,5 +39,7 @@ public class Arrays {
     
     // Ejercicio 15. Leer 10 enteros ordenados crecientemente. Leer N y buscarlo en la tabla. Se debe mostrar la posicion en que se encuentra. Si no está, indicarlo con un mensaje.
     
-    // Ejercicio 16.
+    // Ejercicio 16. Desarrollar una aplicacion que nos ayude a gestionar las notas de un centro educativo. Cada grupo o clase, está compesto por 5 alumnos. Se pide
+    // leer las notas del primer, segundo y tercer trimestre de un grupo. Debemos motrar al final: la nota media del grupo en cada trimestre, y la media del alumno que
+    // se encuentra en la posición N. (N se lee por teclado).
 }
